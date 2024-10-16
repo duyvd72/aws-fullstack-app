@@ -1,1 +1,1 @@
-Endpoint URL: 
+Endpoint URL: http://aws-fullstack-app-dev.us-east-1.elasticbeanstalk.com
